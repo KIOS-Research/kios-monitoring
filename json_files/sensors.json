@@ -1,0 +1,46 @@
+[{
+	"type": "Flow",    
+	"lat": 34.6629992,
+	"lng": 33.015987,
+	"address": "Fragklinou Rousvelt 100",
+	"id":"1"
+  },
+  {
+	"type": "Quality",    
+	"lat": 34.6629992,
+	"lng": 33.0169274,
+	"address": "Omonoias & Fragklinou Rousvelt",
+	"id":"2"
+  },
+  {
+	"type": "Quality",    
+	"lat": 34.6670303,
+	"lng": 33.0247074,
+	"address": "Fragklinou Rousvelt & Dimokratias",
+	"id":"3"
+  }
+  ,
+{
+	"type": "Pressure",    
+	"lat": 34.6661365,
+	"lng": 33.014726,
+	"address": "Omonoias & Vasileos Pavlou",
+	"id":"4"
+}
+  ,
+      {
+        "type": "Flow",    
+        "lat": 34.6737606,
+        "lng": 33.0172481,
+        "address": "Paphou & Vasileos Pavlou",
+        "id":"5"
+  }
+  ,
+{
+	"type": "Pressure",    
+	"lat": 34.6751978,
+	"lng": 33.0114986,
+	"address": "Omonoias & Paphou",
+	"id":"6"
+  }
+]
